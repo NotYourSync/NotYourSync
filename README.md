@@ -1,24 +1,65 @@
-# ⚡« About $ync.
-🥀 Mxybe a Dev?<br><br> 🍷 Intermediate Student and Developer<br> ⚡ GFX Artist 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1289193268340326455?theme=dark&showDisplayName=false&idleMessage=Intermediate%20Developer%20and%20Student)](https://discord.com/users/1289193268340326455)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&color=692CE9&background=FF000000&center=true&vCenter=true&width=650&lines=%F0%9F%91%BE+Hello!+I%E2%80%99m+Sync+an+experienced+Python+developer;%F0%9F%94%A7+Specializing+in+creating+Discord+bots+and+codez;%F0%9F%92%BB+I+use+Python+and+JavaScript.;%F0%9F%A9%B8+I+build+self-bots+and+nukers+and+many+other+toolz)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NotYourSync&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NotYourSync&locale=en&hide_title=false&layout=compact&card_width=320&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-# 🥀 » Techs St@ck.
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![Dgraph](https://img.shields.io/badge/dgraph-%23E50695.svg?style=plastic&logo=dgraph&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=plastic&logo=glitch&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=plastic&logo=affinity-designer&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom%20Classic&logoColor=white)
-# 🍷 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NotYourSyncer&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NotYourSyncer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NotYourSyncer&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+###
 
-## 🍷 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NotYourSyncer&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+<img align="right" height="150" src="https://media.discordapp.net/attachments/1330525315084062822/1332694510140133407/lylies.gif?ex=67a5593b&is=67a407bb&hm=aa4ce353bc3578918c6ab9064add8e101990f7c5dda86cc7f05986fcf3656520&="  />
 
-### 😏 Inspire
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+###
 
-### ✊ Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NotYourSyncer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=NotYourSyncer&icon=4&color=4)](https://visitcount.itsvg.in)
+###
 
-<!-- Pro(
+<div align="left">
+  <a href="https://discord.com/invite/9TNzhJhz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/NotYourSync/NotYourSync/output/snake.svg" alt="Snake animation" />
+
+###
